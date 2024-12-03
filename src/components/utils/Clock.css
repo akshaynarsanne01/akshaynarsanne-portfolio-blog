@@ -1,0 +1,11 @@
+  
+  .clock h2 {
+    margin-bottom: 10px;
+  }
+  
+  .clock p {
+    font-size: 1rem;
+    font-weight: bold;
+    font-style: italic;
+  }
+  
